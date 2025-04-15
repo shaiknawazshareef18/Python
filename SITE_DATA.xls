@@ -1,0 +1,706 @@
+﻿GDSO,Fuel Brand ID,Site Status,LAND / COT,Divison,Location Type,Site Rank ID,City ID,ST,County ID,Store Brand ID,C Store Brand ID,# of MPD's,Diesel?,Separate Diesel Canopy?,High-Speed Diesel,Multi Dealers,Auto Service Bay,Car Wash,Store SQ FT,Lot SQ FT
+6,1,OPEN,Control Type 3,P,Gas Station,1,1,CT,1,1,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1228,12632
+30,2,OPEN,Control Type 3,P,Gas Station,2,2,CT,2,2,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2100,30492
+35,2,OPEN,Control Type 3,PR,Gas Station,3,3,CT,1,2,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1680,20909
+55,2,OPEN,Control Type 3,A,Gas Station,1,4,CT,1,2,1,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,6689,82764
+60,3,OPEN,Control Type 3,P,Gas Station,3,5,CT,1,3,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,756,87120
+71,2,OPEN,Control Type 3,P,Gas Station,1,6,CT,3,2,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2030,13504
+84,2,OPEN,Control Type 3,P,Gas Station,1,7,CT,3,2,1,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2417,17424
+101,2,OPEN,Control Type 3,E 1,Gas Station,2,8,CT,3,4,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,5180,38206
+110,1,OPEN,Control Type 3,E 1,Gas Station,1,9,CT,3,1,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1800,10328
+116,3,OPEN,Control Type 1,E 1,Gas Station,3,10,CT,3,3,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,140,40075
+118,2,OPEN,Control Type 4,E 1,Gas Station,2,10,CT,3,4,2,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,552,50094
+120,2,OPEN,Control Type 3,E 1,Gas Station,2,7,CT,3,4,1,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2153,50965
+132,2,OPEN,Control Type 3,E 1,Gas Station,3,11,CT,3,4,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2073,74880
+170,4,OPEN,Control Type 4,W,Gas Station,4,12,CT,1,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,4000,TBD
+171,4,OPEN,Control Type 4,W,Gas Station,4,13,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,200,TBD
+172,4,OPEN,Control Type 4,W,Gas Station,4,13,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2100,TBD
+173,4,OPEN,Control Type 4,W,Gas Station,4,13,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2100,TBD
+174,1,OPEN,Control Type 2,W,Gas Station,4,14,CT,4,1,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2800,TBD
+175,4,OPEN,Control Type 4,W,Gas Station,4,15,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1500,TBD
+176,4,OPEN,Control Type 4,W,Gas Station,4,16,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1800,TBD
+177,4,OPEN,Control Type 4,W,Gas Station,4,17,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1800,TBD
+178,4,OPEN,Control Type 4,W,Gas Station,4,18,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3800,TBD
+179,4,OPEN,Control Type 4,W,Gas Station,4,19,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1950,TBD
+180,4,OPEN,Control Type 4,W,Gas Station,4,17,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1800,TBD
+181,4,OPEN,Control Type 4,W,Gas Station,4,3,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1800,TBD
+182,3,OPEN,Control Type 4,W,Gas Station,4,20,CT,4,3,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2400,TBD
+183,1,CONVERTED,Control Type 4,W,Gas Station,2,21,CT,1,6,4,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3400,TBD
+184,4,OPEN,Control Type 4,W,Gas Station,4,22,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1400,TBD
+185,4,OPEN,Control Type 2,W,Gas Station,4,23,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1500,TBD
+186,4,OPEN,Control Type 2,W,Gas Station,4,17,CT,4,5,3,N/A,NO,NO,NO,No,Auto Service Bay,No Car Wash,3500,TBD
+187,4,OPEN,Control Type 4,W,Gas Station,4,24,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2400,TBD
+188,4,OPEN,Control Type 4,W,Gas Station,4,16,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3500,TBD
+189,4,OPEN,Control Type 4,W,Gas Station,4,25,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3000,TBD
+190,4,OPEN,Control Type 4,W,Gas Station,4,25,CT,4,3,3,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,500,TBD
+191,3,OPEN,Control Type 4,W,Gas Station,4,26,CT,4,3,3,N/A,NO,NO,NO,No,Auto Service Bay,No Car Wash,2200,TBD
+193,4,OPEN,Control Type 4,W,Gas Station,4,8,CT,3,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2300,TBD
+194,4,OPEN,Control Type 2,W,Gas Station,4,25,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3200,TBD
+196,4,OPEN,Control Type 4,W,Gas Station,4,18,CT,4,5,3,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,6200,TBD
+208,2,OPEN,Control Type 4,E 1,Gas Station,2,27,RI,5,2,5,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1798,53309
+210,3,OPEN,Control Type 4,E 1,Gas Station,2,28,RI,6,3,6,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1223,22856
+306,2,OPEN,Control Type 4,PB,Gas Station,2,29,MA,7,4,5,8,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,Car Wash,2400,328007
+310,2,OPEN,Control Type 4,PB,Gas Station,3,30,MA,7,4,7,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3052,36172
+311,2,OPEN,Control Type 4,PB,Gas Station,2,31,NH,8,4,5,6,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,2581,216112
+316,2,OPEN,Control Type 4,PB,Gas Station,1,32,MA,9,4,7,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2100,18656
+317,2,OPEN,Control Type 4,PB,Gas Station,1,33,NH,10,4,7,2,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,1818,228159
+318,2,OPEN,Control Type 4,PB,Gas Station,3,34,NH,10,4,5,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3419,39266
+321,2,OPEN,Control Type 4,PB,Gas Station,3,35,NH,10,4,7,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4200,51149
+323,2,OPEN,Control Type 4,PB,Gas Station,2,36,MA,7,4,8,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3981,240495
+324,2,OPEN,Control Type 4,PB,Gas Station,3,37,NH,11,4,9,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4200,63078
+325,2,OPEN,Control Type 4,PB,Gas Station,3,38,ME,12,4,7,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3000,30492
+327,2,OPEN,Control Type 4,PB,Gas Station,3,39,MA,7,4,5,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,1800,23404
+330,2,OPEN,Control Type 4,PB,Gas Station,2,40,NH,13,4,5,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3039,342067
+331,2,OPEN,Control Type 4,PB,Gas Station,3,10,NH,8,4,9,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2546,37790
+406,2,OPEN,Control Type 1,BR,Gas Station,1,41,CT,1,2,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+423,1,OPEN,Control Type 3,GN,Gas Station,4,42,VT,14,1,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+424,4,OPEN,Control Type 3,GN,Gas Station,4,43,VT,14,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+428,5,OPEN,Control Type 2,GN,Gas Station,4,44,VT,14,7,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,173,TBD
+429,6,OPEN,Control Type 2,GN,Gas Station,4,45,VT,14,8,1,6,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+430,6,OPEN,Control Type 2,GN,Gas Station,4,45,VT,14,8,1,1,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,241,TBD
+431,4,OPEN,Control Type 4,GN,Gas Station,4,46,NH,15,5,10,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+432,1,OPEN,Control Type 4,GN,Gas Station,4,47,NH,15,1,10,4,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,2000,TBD
+433,2,OPEN,Control Type 4,GN,Gas Station,4,48,VT,16,4,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+434,2,OPEN,Control Type 4,GN,Gas Station,4,49,NH,17,4,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+436,1,OPEN,Control Type 4,GN,Gas Station,4,50,VT,18,1,10,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+437,4,OPEN,Control Type 4,GN,Gas Station,4,51,VT,19,5,10,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+438,2,OPEN,Control Type 4,GN,Gas Station,4,52,NH,20,4,10,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+439,1,OPEN,Control Type 4,GN,Gas Station,4,53,VT,19,1,10,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+440,2,OPEN,Control Type 4,GN,Gas Station,4,54,NH,20,4,10,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+441,1,OPEN,Control Type 4,GN,Gas Station,4,45,VT,14,1,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+442,4,OPEN,Control Type 4,GN,Gas Station,4,55,VT,14,5,10,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+443,4,OPEN,Control Type 4,GN,Gas Station,4,56,VT,21,5,10,3,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+444,7,OPEN,Control Type 4,GN,Gas Station,4,49,NH,17,9,10,5,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+445,4,OPEN,Control Type 4,GN,Gas Station,4,57,VT,14,5,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+446,4,OPEN,Control Type 4,GN,Gas Station,4,58,VT,14,5,10,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,5372,TBD
+447,4,OPEN,Control Type 4,GN,Gas Station,4,59,VT,22,5,10,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+449,2,OPEN,Control Type 4,GN,Gas Station,4,60,VT,23,4,10,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+450,4,OPEN,Control Type 4,GN,Gas Station,4,61,VT,16,5,10,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+451,2,OPEN,Control Type 4,GN,Gas Station,4,62,VT,23,4,11,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+452,2,OPEN,Control Type 4,GN,Gas Station,4,63,VT,24,4,10,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,4614,TBD
+453,3,OPEN,Control Type 4,GN,Gas Station,4,63,VT,24,3,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,774,TBD
+454,7,OPEN,Control Type 4,GN,Gas Station,4,64,VT,18,9,10,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+455,2,OPEN,Control Type 2,GN,Gas Station,4,65,NH,17,4,10,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+456,4,OPEN,Control Type 2,GN,Gas Station,4,44,VT,14,5,10,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+457,2,OPEN,Control Type 2,GN,Gas Station,4,66,VT,24,4,10,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3618,TBD
+458,4,OPEN,Control Type 4,GN,Gas Station,4,67,VT,18,5,10,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,5701,TBD
+459,4,OPEN,Control Type 4,GN,Gas Station,4,68,NH,10,5,10,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,4015,TBD
+460,4,OPEN,Control Type 4,GN,Gas Station,4,69,NH,15,5,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+461,2,OPEN,Control Type 4,GN,Gas Station,4,70,VT,21,4,10,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+462,2,OPEN,Control Type 4,GN,Gas Station,4,71,VT,24,4,10,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+463,4,OPEN,Control Type 4,GN,Gas Station,4,72,VT,19,5,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+464,1,OPEN,Control Type 4,GN,Gas Station,4,73,VT,25,1,10,2,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+465,2,OPEN,Control Type 4,GN,Gas Station,4,74,VT,16,4,10,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4190,TBD
+466,2,CONVERTED,Control Type 4,GN,Gas Station,4,75,VT,19,4,10,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+471,8,OPEN,Control Type 4,GN,Gas Station,4,76,VT,14,10,12,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+474,1,OPEN,Control Type 4,GN,LAND,4,77,VT,18,1,3,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3396,N/A
+501,1,OPEN,Control Type 4,WS,Gas Station,1,78,CT,1,11,8,9,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1056,65209
+505,1,OPEN,Control Type 4,WS,Gas Station,2,79,CT,26,1,5,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2273,22577
+510,1,OPEN,Control Type 4,O,Gas Station,4,80,VA,27,1,13,TBD,Diesel,TBD,TBD,Yes ,No Auto Service Bay,No Car Wash,1526,TBD
+511,1,OPEN,Control Type 4,O,Gas Station,4,81,VA,28,1,13,TBD,Diesel,TBD,TBD,Yes ,No Auto Service Bay,Car Wash,1891,TBD
+512,9,OPEN,Control Type 4,O,Gas Station,4,81,VA,28,12,13,TBD,Diesel,TBD,TBD,Yes ,No Auto Service Bay,No Car Wash,1056,TBD
+513,9,OPEN,Control Type 4,O,Gas Station,4,81,VA,28,12,14,TBD,Diesel,TBD,TBD,No,No Auto Service Bay,No Car Wash,3344,TBD
+514,9,OPEN,Control Type 3,O,Gas Station,4,82,VA,29,12,1,TBD,Diesel,TBD,TBD,No,No Auto Service Bay,No Car Wash,332,TBD
+515,9,OPEN,Control Type 3,O,Gas Station,4,80,VA,27,12,1,TBD,Diesel,TBD,TBD,No,No Auto Service Bay,Car Wash,700,TBD
+516,9,OPEN,Control Type 2,O,Gas Station,4,80,VA,27,12,1,TBD,Diesel,TBD,TBD,Yes ,No Auto Service Bay,Car Wash,400,TBD
+517,9,OPEN,Control Type 4,O,Gas Station,4,83,VA,30,12,1,TBD,Diesel,TBD,TBD,Yes ,No Auto Service Bay,No Car Wash,776,TBD
+518,9,OPEN,Control Type 4,O,Gas Station,4,83,VA,30,12,1,TBD,Diesel,TBD,TBD,Yes ,No Auto Service Bay,No Car Wash,140,TBD
+521,9,OPEN,Control Type 2,O,Gas Station,4,84,VA,28,12,1,TBD,Diesel,TBD,TBD,No,No Auto Service Bay,No Car Wash,3282,TBD
+523,1,OPEN,Control Type 4,O,Gas Station,4,83,VA,30,1,1,TBD,Diesel,TBD,TBD,Yes ,No Auto Service Bay,Car Wash,1920,TBD
+525,9,OPEN,Control Type 3,O,Gas Station,4,80,VA,27,12,1,TBD,TBD,TBD,TBD,No,No Auto Service Bay,No Car Wash,TBD,TBD
+526,9,OPEN,Control Type 1,O,Gas Station,4,83,VA,30,12,1,TBD,Diesel,TBD,TBD,No,Auto Service Bay,No Car Wash,880,TBD
+527,1,OPEN,Control Type 3,O,Gas Station,4,83,VA,30,1,1,4,NO,NO,NA,Yes ,No Auto Service Bay,No Car Wash,1874,TBD
+528,9,OPEN,Control Type 3,O,Gas Station,4,80,VA,27,12,1,6,Diesel,NO,TBD,Yes ,No Auto Service Bay,Car Wash,618,TBD
+529,9,OPEN,Control Type 1,EG,Gas Station,4,85,VA,31,12,15,6,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,3200,TBD
+560,9,OPEN,Control Type 4,EG,Gas Station,4,27,VA,32,12,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1250,TBD
+561,9,OPEN,Control Type 4,EG,Gas Station,4,81,VA,29,13,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1966,TBD
+562,10,OPEN,Control Type 4,EG,Gas Station,4,80,VA,33,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2800,TBD
+563,9,OPEN,Control Type 4,EG,Gas Station,4,86,VA,33,12,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3896,TBD
+564,10,OPEN,Control Type 4,EG,Gas Station,4,83,VA,34,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3240,TBD
+565,9,OPEN,Control Type 4,EG,Gas Station,4,86,VA,33,12,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,6630,TBD
+566,10,OPEN,Control Type 4,EG,Gas Station,4,80,VA,33,14,15,TBD,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,3200,TBD
+567,10,OPEN,Control Type 4,EG,Gas Station,4,81,VA,29,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,2000,TBD
+568,9,OPEN,Control Type 4,EG,Gas Station,4,83,VA,34,12,15,TBD,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,3200,TBD
+569,10,OPEN,Control Type 4,EG,Gas Station,4,81,VA,29,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4500,TBD
+570,10,OPEN,Control Type 4,EG,Gas Station,4,83,VA,34,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2940,TBD
+571,10,OPEN,Control Type 4,EG,Gas Station,4,80,VA,33,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,6381,TBD
+572,3,OPEN,Control Type 3,EG,Gas Station,4,81,VA,29,3,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2584,TBD
+573,10,OPEN,Control Type 4,EG,Gas Station,4,87,VA,33,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3284,TBD
+574,10,OPEN,Control Type 4,EG,Gas Station,4,88,VA,35,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3200,TBD
+575,10,OPEN,Control Type 4,EG,Gas Station,4,87,VA,33,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2400,TBD
+577,9,OPEN,Control Type 4,EG,Gas Station,4,88,VA,35,12,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4000,TBD
+578,10,OPEN,Control Type 3,EG,Gas Station,4,85,VA,31,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2446,TBD
+579,10,OPEN,Control Type 4,EG,Gas Station,4,89,VA,36,14,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3280,TBD
+580,1,OPEN,Control Type 4,EG,Gas Station,4,90,VA,37,1,15,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,6309,TBD
+585,9,OPEN,Control Type 1,EG,Gas Station,4,87,VA,33,12,1,TBD,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+602,2,OPEN,Control Type 2,DE,Gas Station,3,91,ME,38,4,5,8,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1800,29185
+603,2,OPEN,Control Type 4,DE,Gas Station,2,92,ME,38,4,5,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3000,98010
+605,2,OPEN,Control Type 2,DE,Gas Station,3,93,NH,39,4,16,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2100,47916
+611,2,OPEN,Control Type 2,DE,Gas Station,3,94,ME,38,4,7,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2761,230867
+612,2,OPEN,Control Type 2,DE,Gas Station,3,95,ME,40,4,7,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1435,TBD
+626,2,OPEN,Control Type 4,DE,Gas Station,3,96,NH,13,4,16,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1672,69696
+641,1,OPEN,Control Type 2,NONE,Gas Station,2,97,ME,41,1,17,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,5000,TBD
+642,3,OPEN,Control Type 4,NONE,Gas Station,2,98,NH,42,3,8,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,2200,TBD
+643,1,OPEN,Control Type 2,NONE,Gas Station,3,99,NH,10,1,18,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2800,TBD
+644,1,OPEN,Control Type 2,NONE,Gas Station,3,100,NH,42,1,18,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3200,TBD
+647,11,OPEN,Control Type 2,G,Gas Station,4,101,MA,43,6,8,6,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+661,2,OPEN,Control Type 4,DE2,Gas Station,1,102,ME,38,4,8,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1485,28584
+662,2,OPEN,Control Type 4,DE2,Gas Station,3,91,ME,38,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2624,34543
+664,1,OPEN,Control Type 2,D,Gas Station,2,5,MA,7,1,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4000,TBD
+665,1,OPEN,Control Type 2,WS,Gas Station,2,103,CT,1,11,8,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3800,TBD
+668,2,OPEN,Control Type 4,D,Gas Station,2,104,NY,44,4,8,5,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1950,TBD
+669,2,OPEN,Control Type 4,N,Gas Station,3,105,CT,45,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,2000,40075
+670,4,OPEN,Control Type 4,P,Gas Station,4,106,NH,10,5,8,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,2100,TBD
+671,4,OPEN,Control Type 4,P,Gas Station,4,107,NH,10,5,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,6520,TBD
+672,4,OPEN,Control Type 4,P,Gas Station,4,46,NH,15,5,8,6,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,Car Wash,2860,TBD
+673,4,OPEN,Control Type 4,P,Gas Station,4,46,NH,15,5,8,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,Car Wash,5190,TBD
+674,4,OPEN,Control Type 4,P,Gas Station,4,108,NH,8,5,8,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3332,TBD
+675,4,OPEN,Control Type 4,P,Gas Station,4,109,NH,10,5,8,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3120,TBD
+676,4,OPEN,Control Type 4,P,Gas Station,4,109,NH,10,5,8,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,9812,TBD
+677,4,OPEN,Control Type 4,P,Gas Station,4,110,NH,10,5,8,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2303,TBD
+678,4,OPEN,Control Type 4,P,Gas Station,4,47,NH,15,5,8,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3505,TBD
+679,4,OPEN,Control Type 4,P,Gas Station,4,111,VT,25,5,8,2,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,350,TBD
+680,4,OPEN,Control Type 4,M,Gas Station,4,112,VT,18,5,8,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2950,TBD
+683,4,OPEN,Control Type 4,M,Gas Station,4,77,VT,18,5,8,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3983,TBD
+684,4,OPEN,Control Type 4,M,Gas Station,4,113,VT,22,5,8,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1837,TBD
+685,4,OPEN,Control Type 4,M,Gas Station,4,114,VT,16,5,8,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,5901,TBD
+686,4,OPEN,Control Type 4,M,Gas Station,4,115,VT,46,5,8,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1985,TBD
+687,4,OPEN,Control Type 4,M,Gas Station,4,50,VT,18,5,8,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2249,TBD
+688,4,OPEN,Control Type 4,M,Gas Station,4,103,VT,21,5,8,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2409,TBD
+689,4,OPEN,Control Type 4,M,Gas Station,4,116,VT,18,5,8,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2209,TBD
+690,4,OPEN,Control Type 4,M,Gas Station,4,117,NY,47,5,8,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1411,TBD
+691,4,OPEN,Control Type 4,M,Gas Station,4,118,NH,10,5,8,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1430,TBD
+692,4,OPEN,Control Type 4,M,Gas Station,4,106,NH,10,5,8,N/A,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2607,TBD
+699,2,OPEN,Control Type 3,M,Gas Station,4,119,MA,48,4,8,N/A,N/A,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+726,12,OPEN,Control Type 4,E 2,Gas Station,2,16,CT,4,8,8,8,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1793,52218
+727,12,OPEN,Control Type 2,E 2,Gas Station,3,16,CT,4,8,8,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+740,12,OPEN,Control Type 1,NONE,Gas Station,2,15,CT,4,8,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+768,2,OPEN,Control Type 2,N,Gas Station,3,3,CT,1,15,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,644,28750
+769,11,OPEN,Control Type 2,NONE,Gas Station,4,120,MA,9,6,8,8,Diesel,Separate Diesel Canopy,NO,No,No Auto Service Bay,No Car Wash,5902,N/A
+770,11,OPEN,Control Type 4,A,Gas Station,4,121,NY,49,6,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2200,0
+774,13,OPEN,Control Type 2,NONE,Gas Station,4,122,MA,9,16,8,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1495,TBD
+775,2,OPEN,Control Type 4,PB,Gas Station,4,123,NH,42,4,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3325,TBD
+776,11,REBRANDED,Control Type 4,D,Gas Station,2,124,NY,50,6,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3821,43560
+778,12,OPEN,Control Type 2,A,Gas Station,4,13,CT,4,8,8,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1200,TBD
+779,2,OPEN,Control Type 2,A,Gas Station,4,125,CT,51,4,8,6,NO,NO,Yes,No,No Auto Service Bay,No Car Wash,900,TBD
+780,12,OPEN,Control Type 2,E 2,Gas Station,2,22,CT,4,8,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+782,1,OPEN,Control Type 2,A,Gas Station,3,122,MA,9,1,8,6,NO,yes,TBD,No,Auto Service Bay,No Car Wash,3250,TBD
+783,11,REBRANDED,Control Type 4,A,Gas Station,4,126,NY,52,6,8,6,Diesel,TBD,TBD,No,No Auto Service Bay,No Car Wash,4000,TBD
+784,11,OPEN,Control Type 4,S,Gas Station,4,127,MA,9,6,8,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+785,12,OPEN,Control Type 4,NONE,Gas Station,4,128,MA,53,8,8,6,Diesel,NO,NO,Yes ,No Auto Service Bay,Car Wash,TBD,TBD
+810,2,OPEN,Control Type 1,TP 1,Gas Station,1,129,CT,54,4,8,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+811,2,OPEN,Control Type 1,TP 1,Gas Station,3,129,CT,54,4,8,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+812,2,OPEN,Control Type 1,TP 1,Gas Station,3,130,CT,51,4,8,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+820,2,OPEN,Control Type 2,TP 1,Gas Station,2,17,CT,4,4,8,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+821,2,OPEN,Control Type 2,TP 1,Gas Station,2,17,CT,4,4,8,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+822,2,OPEN,Control Type 2,TP 1,Gas Station,2,131,CT,4,4,8,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+823,2,OPEN,Control Type 2,TP 1,Gas Station,2,131,CT,4,4,8,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+824,2,OPEN,Control Type 2,TP 1,Gas Station,2,132,CT,4,4,8,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+825,2,OPEN,Control Type 2,TP 1,Gas Station,2,132,CT,4,4,8,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+826,2,OPEN,Control Type 2,TP 1,Gas Station,2,133,CT,1,4,8,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+827,2,OPEN,Control Type 2,TP 1,Gas Station,2,133,CT,1,4,8,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+828,2,OPEN,Control Type 2,TP 1,Gas Station,2,4,CT,1,4,8,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2413,TBD
+829,2,OPEN,Control Type 2,TP 1,Gas Station,2,4,CT,1,4,8,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2413,TBD
+830,2,OPEN,Control Type 2,TP 1,Gas Station,2,17,CT,4,4,8,8,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+831,2,OPEN,Control Type 2,TP 1,Gas Station,2,17,CT,4,4,8,8,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+832,2,OPEN,Control Type 2,TP 1,Gas Station,2,18,CT,1,4,8,8,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+833,2,OPEN,Control Type 2,TP 1,Gas Station,2,18,CT,1,4,8,8,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+834,2,OPEN,Control Type 2,TP 1,Gas Station,2,134,CT,1,4,8,5,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+835,2,OPEN,Control Type 2,TP 1,Gas Station,2,134,CT,1,4,8,8,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+836,2,OPEN,Control Type 2,TP 1,Gas Station,2,1,CT,1,4,8,8,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+837,2,OPEN,Control Type 2,TP 1,Gas Station,2,1,CT,1,4,8,5,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+838,2,OPEN,Control Type 2,TP 1,Gas Station,2,135,CT,4,4,8,12,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+839,2,OPEN,Control Type 2,TP 1,Gas Station,2,135,CT,4,4,8,10,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,TBD,TBD
+850,13,OPEN,Control Type 2,TP 2,Gas Station,5,136,MA,55,16,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+851,13,OPEN,Control Type 2,TP 2,Gas Station,6,136,MA,55,16,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+852,13,OPEN,Control Type 2,TP 2,Gas Station,5,137,MA,55,16,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+853,13,OPEN,Control Type 2,TP 2,Gas Station,6,137,MA,55,16,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+854,13,OPEN,Control Type 2,TP 2,Gas Station,2,138,MA,7,16,8,11,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+855,13,OPEN,Control Type 2,TP 2,Gas Station,2,138,MA,7,16,8,11,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+856,13,OPEN,Control Type 2,TP 2,Gas Station,2,139,MA,9,16,8,8,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+857,13,OPEN,Control Type 2,TP 2,Gas Station,6,140,MA,48,16,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+858,13,OPEN,Control Type 2,TP 2,Gas Station,5,140,MA,48,16,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+859,13,OPEN,Control Type 2,TP 2,Gas Station,3,141,MA,9,16,8,8,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+860,13,OPEN,Control Type 2,TP 2,Gas Station,3,142,MA,7,16,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,TBD
+1140,2,OPEN,Control Type 3,E 1,Gas Station,3,143,CT,3,2,8,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1769,53178
+1240,2,OPEN,Control Type 3,E 1,Gas Station,3,78,CT,1,2,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1066,56628
+1330,12,OPEN,Control Type 3,M,Gas Station,1,144,NH,42,8,8,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+1333,4,OPEN,Control Type 1,M,Gas Station,1,145,MA,56,5,8,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+1334,2,OPEN,Control Type 3,M,Gas Station,3,145,MA,56,4,8,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+1336,12,OPEN,Control Type 3,M,Gas Station,3,146,CT,51,8,8,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1200,TBD
+2110,2,OPEN,Control Type 3,B,Gas Station,3,147,MA,9,2,8,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1440,22869
+2127,2,OPEN,Control Type 4,B,Gas Station,3,148,MA,57,4,8,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1356,16901
+2151,4,OPEN,Control Type 3,B,Gas Station,1,42,MA,9,5,8,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2308,30013
+2152,12,OPEN,Control Type 4,B,Gas Station,2,149,NH,42,8,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1800,40604
+2213,2,OPEN,Control Type 1,B,Gas Station,3,150,MA,57,4,8,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1728,22390
+2214,12,OPEN,Control Type 3,B,Gas Station,1,151,MA,57,8,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,70,11718
+2218,2,OPEN,Control Type 3,E 1,Gas Station,1,28,RI,6,4,8,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1529,50639
+2246,2,OPEN,Control Type 3,B,Gas Station,2,152,MA,57,4,8,6,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,3838,524292
+2701,2,OPEN,Control Type 2,S,Gas Station,2,153,MA,9,4,8,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3065,112974
+2703,2,OPEN,Control Type 2,S,Gas Station,2,154,MA,56,4,8,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3068,26566
+2704,2,OPEN,Control Type 2,S,Gas Station,2,139,MA,9,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1037,26870
+2705,2,OPEN,Control Type 2,S,Gas Station,2,155,MA,58,4,8,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2436,71874
+2706,2,OPEN,Control Type 2,S,Gas Station,2,156,MA,57,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3126,85000
+2708,2,OPEN,Control Type 2,S,Gas Station,3,157,MA,58,4,8,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1804,20790
+2709,2,OPEN,Control Type 2,S,Gas Station,2,158,MA,43,4,8,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,7584,308000
+2710,2,OPEN,Control Type 2,S,Gas Station,2,158,MA,43,4,8,5,NO,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,7584,335868
+2711,2,REBRANDED,Control Type 2,S,Gas Station,2,159,MA,59,4,8,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2140,24153
+2712,2,OPEN,Control Type 2,S,Gas Station,3,87,NH,42,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,1853,42009
+2715,2,OPEN,Control Type 2,S,Gas Station,2,102,MA,59,4,8,5,NO,NO,NO,No,No Auto Service Bay,No Car Wash,962,44753
+2716,2,OPEN,Control Type 4,S,Gas Station,2,160,MA,57,4,8,5,NO,NO,NO,No,No Auto Service Bay,Car Wash,1100,41789
+2717,2,OPEN,Control Type 4,S,Gas Station,2,161,MA,57,4,8,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3000,76568
+2718,2,OPEN,Control Type 4,S,Gas Station,2,162,MA,9,4,8,5,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3200,39866
+2719,2,OPEN,Control Type 4,S,Gas Station,3,163,MA,9,4,8,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2200,45080
+2720,2,OPEN,Control Type 4,S,Gas Station,2,142,MA,7,4,8,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1704,39039
+2721,2,OPEN,Control Type 4,S,Gas Station,2,147,MA,9,4,8,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,900,39705
+2722,2,OPEN,Control Type 4,S,Gas Station,3,164,MA,9,15,8,8,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3900,91171
+2723,2,OPEN,Control Type 4,S,Gas Station,2,165,MA,58,4,8,8,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,900,45690
+2724,2,OPEN,Control Type 4,S,Gas Station,1,166,MA,9,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,1100,70759
+2725,2,CLOSED,Control Type 4,S,Gas Station,2,157,MA,58,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,900,17206
+2726,2,OPEN,Control Type 4,S,Gas Station,2,167,MA,53,15,8,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3181,88870
+2727,2,OPEN,Control Type 4,S,Gas Station,3,168,MA,43,4,8,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,4038,41162
+2728,2,OPEN,Control Type 4,S,Gas Station,3,169,MA,53,4,8,10,NO,NO,NO,No,No Auto Service Bay,Car Wash,3902,83137
+2729,2,OPEN,Control Type 4,S,Gas Station,3,170,MA,59,4,8,7,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2013,27092
+2730,2,OPEN,Control Type 4,S,Gas Station,2,171,MA,59,4,8,4,NO,NO,NO,No,No Auto Service Bay,Car Wash,1675,47969
+2732,2,OPEN,Control Type 4,S,Gas Station,2,172,NH,42,4,8,7,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,2500,167311
+2735,2,REBRANDED,Control Type 4,S,Gas Station,3,10,NH,8,4,8,5,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3000,77316
+2736,2,OPEN,Control Type 4,S,Gas Station,3,173,NH,8,15,5,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3000,49639
+2737,2,OPEN,Control Type 4,S,Gas Station,2,174,NH,42,4,5,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3000,450000
+2738,2,OPEN,Control Type 4,S,Gas Station,3,28,RI,6,4,5,8,NO,NO,NO,No,No Auto Service Bay,Car Wash,3934,72413
+2740,2,OPEN,Control Type 4,S,Gas Station,2,175,RI,52,4,5,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,686,56172
+2741,2,OPEN,Control Type 4,S,Gas Station,1,176,RI,52,4,5,5,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3000,35341
+2743,2,OPEN,Control Type 2,S,Gas Station,2,177,MA,9,4,5,5,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,3330,60113
+2744,2,OPEN,Control Type 4,S,Gas Station,2,178,MA,58,4,5,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,970,49152
+2750,2,OPEN,Control Type 2,G2,Gas Station,2,140,MA,48,4,19,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3080,TBD
+2756,2,OPEN,Control Type 4,S,Gas Station,2,173,NH,8,15,20,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3900,34752
+2757,2,OPEN,Control Type 4,S,Gas Station,2,10,NH,8,4,20,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2925,85116
+2759,2,OPEN,Control Type 4,B,Gas Station,2,5,MA,7,4,21,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3000,50094
+2760,2,OPEN,Control Type 2,B,Gas Station,1,179,MA,7,4,21,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3000,37365.768
+2761,2,OPEN,Control Type 2,B,Gas Station,3,138,MA,7,4,21,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,4200,196760.52
+2762,2,OPEN,Control Type 4,S,Gas Station,2,122,MA,9,4,12,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2100,22926
+2765,2,OPEN,Control Type 4,PB,Gas Station,3,180,NH,13,4,7,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1813,12137
+2766,2,OPEN,Control Type 4,S,Gas Station,2,181,MA,9,15,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1744,40030
+2767,2,OPEN,Control Type 2,A,Gas Station,4,182,NH,7,4,22,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,372,N/A
+2768,2,OPEN,Control Type 2,S,Gas Station,2,183,MA,9,4,1,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1778,16464
+2769,2,OPEN,Control Type 4,S,Gas Station,3,184,MA,9,4,1,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1842,40421
+2770,2,OPEN,Control Type 4,S,Gas Station,2,185,MA,7,4,1,6,NO,NO,NO,No,No Auto Service Bay,Car Wash,3926,37704
+2771,2,OPEN,Control Type 4,S,Gas Station,3,10,NH,8,4,1,6,NO,NO,NO,No,No Auto Service Bay,Car Wash,4546,12500
+2773,2,OPEN,Control Type 4,S,Gas Station,2,186,RI,52,4,1,4,Diesel,NO,NO,NO,No Auto Service Bay,No Car Wash,1557,36130
+3401,1,OPEN,Control Type 1,C,Gas Station,4,187,PA,60,1,3,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3403,12,OPEN,Control Type 1,C,Gas Station,4,188,PA,60,8,3,TBD,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3404,1,OPEN,Control Type 1,C,Gas Station,4,189,PA,60,1,3,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3406,1,OPEN,Control Type 1,C,Gas Station,7,190,PA,61,1,1,6,Yes,Yes,,Yes ,,,,
+3407,12,OPEN,Control Type 1,C,Gas Station,4,191,PA,62,8,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3409,1,OPEN,Control Type 1,C,Gas Station,4,191,PA,60,1,3,4,Diesel,NO,NO,Yes ,No Auto Service Bay,Car Wash,TBD,TBD
+3410,12,OPEN,Control Type 1,C,Gas Station,4,192,PA,62,8,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3411,12,OPEN,Control Type 1,C,Gas Station,4,193,PA,60,8,3,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3412,1,OPEN,Control Type 1,C,Gas Station,4,192,PA,60,1,3,4,Diesel,NO,NO,Yes ,No Auto Service Bay,Car Wash,TBD,TBD
+3413,12,OPEN,Control Type 1,C,Gas Station,4,194,PA,62,8,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3414,1,OPEN,Control Type 1,C,Gas Station,4,195,PA,60,1,3,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,TBD,TBD
+3417,12,OPEN,Control Type 1,C,Gas Station,4,196,NJ,63,8,1,TBD,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3418,12,OPEN,Control Type 1,C,Gas Station,4,197,NJ,63,8,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3419,1,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,1,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3422,6,OPEN,Control Type 1,A,Gas Station,4,198,PA,65,14,1,TBD,TBD,NO,NO,No,No Auto Service Bay,Car Wash,TBD,TBD
+3426,2,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,2,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3428,2,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,2,1,TBD,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3429,1,OPEN,Control Type 1,C,Gas Station,4,199,PA,66,1,1,TBD,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3430,1,OPEN,Control Type 1,C,Gas Station,4,198,PA,65,1,1,TBD,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3431,2,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,2,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3432,12,OPEN,Control Type 1,A,Gas Station,4,191,PA,64,8,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,Car Wash,TBD,TBD
+3434,2,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,2,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3435,1,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,1,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3436,2,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,2,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3437,1,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,1,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3438,2,OPEN,Control Type 1,C,Gas Station,4,191,PA,64,2,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3439,2,OPEN,Control Type 1,C,Gas Station,4,197,NJ,63,2,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3440,2,OPEN,Control Type 1,C,Gas Station,4,196,NJ,63,2,1,TBD,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3441,1,OPEN,Control Type 1,C,Gas Station,4,196,NJ,63,1,1,TBD,TBD,NO,NO,No,Auto Service Bay,No Car Wash,TBD,TBD
+3442,12,OPEN,Control Type 1,C,Gas Station,4,198,PA,65,8,1,TBD,TBD,NO,NO,Yes ,No Auto Service Bay,Car Wash,TBD,TBD
+3443,2,OPEN,Control Type 1,C,Gas Station,4,200,NJ,67,2,1,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3601,2,OPEN,Control Type 1,M,Gas Station,3,201,NY,68,4,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3521,19166.4
+3602,2,OPEN,Control Type 1,M,Gas Station,3,202,NY,69,4,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1550,10890
+3604,2,OPEN,Control Type 3,M,Gas Station,3,203,NY,68,4,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1800,10018.8
+3605,2,OPEN,Control Type 3,M,Gas Station,3,201,NY,68,4,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1369,10890
+3606,2,OPEN,Control Type 1,M,Gas Station,3,201,NY,68,4,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,3984,14810.4
+3607,2,OPEN,Control Type 1,M,Gas Station,3,204,NY,70,4,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,603,3920.4
+3608,2,OPEN,Control Type 1,O2,Gas Station,3,205,MD,71,2,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1549,23522.4
+3609,2,OPEN,Control Type 1,O2,Gas Station,3,206,MD,71,2,1,8,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3200,79714.8
+3610,2,OPEN,Control Type 1,O2,Gas Station,3,207,MD,71,2,1,6,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,3200,79714.8
+3612,1,OPEN,Control Type 3,O2,Gas Station,3,208,MD,71,1,1,8,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,225,35283.6
+3613,1,OPEN,Control Type 3,O2,Gas Station,3,208,MD,71,1,1,6,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,160,15246
+3614,2,OPEN,Control Type 1,M,Gas Station,3,209,NY,68,4,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,3500,28314
+3615,2,OPEN,Control Type 1,M,Gas Station,6,202,NY,69,4,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1333,6969.6
+3616,2,OPEN,Control Type 1,M,Gas Station,1,210,NY,68,4,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1300,11325.6
+3617,2,OPEN,Control Type 1,M,Gas Station,1,210,NY,68,4,1,3,TBD,No,NO,Yes ,No Auto Service Bay,No Car Wash,2550,6969.6
+3618,2,OPEN,Control Type 1,M,Gas Station,3,211,NY,68,4,1,3,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,2000,9147.6
+3619,2,OPEN,Control Type 3,M,Gas Station,2,211,NY,68,4,1,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1722,16552.8
+3620,2,OPEN,Control Type 1,M,Gas Station,1,202,NY,69,4,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1972,9147.6
+3621,2,OPEN,Control Type 1,M,Gas Station,6,202,NY,69,4,1,6,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2100,17424
+3622,2,OPEN,Control Type 3,M,Gas Station,3,212,NY,68,4,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,2800,15246
+3623,2,OPEN,Control Type 3,M,Gas Station,3,202,NY,69,4,1,3,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,200,8276.4
+3624,2,OPEN,Control Type 1,O2,Gas Station,3,213,MD,71,2,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1549,23522.4
+3625,2,OPEN,Control Type 1,O2,Gas Station,3,214,MD,71,2,1,3,Diesel,NO,NO,No,Auto Service Bay,No Car Wash,1702,22215.6
+3626,3,OPEN,Control Type 1,BR2,Gas Station,4,215,MD,72,3,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+3627,2,OPEN,Control Type 1,O2,Gas Station,5,205,MD,71,2,1,3,TBD,NO,NO,No,Auto Service Bay,No Car Wash,1357,30927.6
+3628,2,OPEN,Control Type 1,O2,Gas Station,1,207,MD,71,2,1,3,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,290,20473.2
+3629,2,OPEN,Control Type 1,O2,Gas Station,1,216,MD,71,2,1,3,Diesel,NO,NO,Yes ,Auto Service Bay,No Car Wash,2124,30927.6
+3630,2,OPEN,Control Type 1,O2,Gas Station,3,217,MD,71,2,1,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,2157,47916
+3631,2,OPEN,Control Type 1,M,Gas Station,3,204,NY,70,4,1,2,TBD,NO,NO,Yes ,Auto Service Bay,No Car Wash,2730,10018.8
+3632,2,OPEN,Control Type 1,M,Gas Station,3,211,NY,68,4,1,2,TBD,NO,NO,No,Auto Service Bay,No Car Wash,2480,9147.6
+3633,12,OPEN,Control Type 1,A,Gas Station,4,218,VA,73,8,1,TBD,Yes,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+3634,2,OPEN,Control Type 3,M,Gas Station,3,219,NY,68,4,1,3,TBD,NO,NO,No,Auto Service Bay,No Car Wash,1369,15246
+3635,2,OPEN,Control Type 1,O2,Gas Station,3,220,MD,71,2,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1637,23086.8
+3636,2,OPEN,Control Type 1,M,Gas Station,1,221,NY,68,4,1,3,TBD,NO,NO,No,Auto Service Bay,No Car Wash,4000,15681.6
+3637,2,OPEN,Control Type 1,M,Gas Station,3,222,NY,68,4,1,2,TBD,NO,NO,No,Auto Service Bay,No Car Wash,1600,9147.6
+3638,2,OPEN,Control Type 3,M,Gas Station,3,223,NY,68,4,1,4,TBD,NO,NO,No,Auto Service Bay,No Car Wash,2000,13503.6
+3639,2,OPEN,Control Type 1,M,Gas Station,3,224,NY,68,4,1,2,TBD,NO,NO,Yes ,Auto Service Bay,No Car Wash,1428,4791.6
+3640,2,OPEN,Control Type 1,M,Gas Station,3,225,NY,68,4,1,4,TBD,NO,NO,Yes ,Auto Service Bay,No Car Wash,3640,13939.2
+3641,2,OPEN,Control Type 1,O2,Gas Station,3,214,MD,71,2,1,4,Diesel,NO,NO,No,Auto Service Bay,No Car Wash,2028,37026
+3642,2,OPEN,Control Type 1,O2,Gas Station,3,207,MD,71,2,1,4,TBD,NO,NO,No,Auto Service Bay,No Car Wash,1947,16988.4
+3643,2,OPEN,Control Type 3,M,Gas Station,3,222,NY,68,4,1,6,TBD,NO,NO,Yes ,Auto Service Bay,No Car Wash,2500,21780
+3644,2,OPEN,Control Type 1,M,Gas Station,3,221,NY,68,4,8,2,TBD,NO,NO,No,Auto Service Bay,No Car Wash,3075,12196.8
+3705,1,OPEN,Control Type 2,G2,Gas Station,3,226,MA,48,1,19,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4680,TBD
+3706,1,OPEN,Control Type 2,G2,Gas Station,2,119,MA,48,1,5,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,6440,TBD
+3707,1,OPEN,Control Type 2,G2,Gas Station,3,227,MA,55,1,5,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1971,TBD
+3709,1,OPEN,Control Type 2,G2,Gas Station,2,228,MA,55,1,5,6,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2022,TBD
+3711,1,OPEN,Control Type 2,G2,Gas Station,3,229,MA,74,1,19,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2268,TBD
+3713,1,OPEN,Control Type 2,G2,Gas Station,3,230,MA,55,1,19,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,924,TBD
+3714,1,OPEN,Control Type 2,G2,Gas Station,1,231,MA,55,1,19,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3192,TBD
+3715,1,OPEN,Control Type 2,G2,Gas Station,2,119,MA,48,1,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2555,TBD
+3727,1,OPEN,Control Type 2,G2,Gas Station,6,119,MA,48,1,19,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,35,TBD
+3812,1,OPEN,Control Type 2,B,Gas Station,3,179,MA,7,1,21,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2750,10097.208
+3824,14,OPEN,Control Type 2,B,NON-GAS Location,6,179,MA,7,17,23,N/A,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1856,20956.716
+3825,1,OPEN,Control Type 4,B,Gas Station,2,179,MA,7,1,21,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3089,33184.008
+3826,1,OPEN,Control Type 2,B,Gas Station,3,4,MA,75,1,21,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,3670,144924.12
+3827,2,OPEN,Control Type 2,B,Gas Station,2,232,MA,7,4,21,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,4200,61419.6
+3828,1,OPEN,Control Type 4,B,Gas Station,3,233,NH,10,1,21,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3528,113256
+3829,2,OPEN,Control Type 2,B,Gas Station,2,234,MA,7,4,21,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3680,226076.4
+3830,2,OPEN,Control Type 2,B,Gas Station,2,185,MA,7,4,21,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,4250,72135.36
+3906,2,OPEN,Control Type 3,N,Gas Station,3,235,CT,4,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1618,58472
+3907,2,OPEN,Control Type 3,N,Gas Station,3,9,CT,3,4,1,5,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,3071,44527
+3912,2,OPEN,Control Type 3,N,Gas Station,1,13,CT,4,4,1,2,TBD,NO,NO,Yes ,Auto Service Bay,No Car Wash,1242,10000
+3919,1,OPEN,Control Type 4,N,Gas Station,2,236,CT,2,1,5,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3228,27652
+3922,2,OPEN,Control Type 3,N,Gas Station,3,16,CT,4,4,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,928,61305
+3937,2,OPEN,Control Type 1,N,Gas Station,3,131,CT,4,4,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,943,19460
+3941,2,OPEN,Control Type 3,N,Gas Station,3,7,CT,3,4,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2826,27963
+3949,2,OPEN,Control Type 1,N,Gas Station,3,26,CT,4,4,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1700,15847
+3954,1,OPEN,Control Type 3,N,Gas Station,3,56,CT,1,1,1,4,Diesel,NO,NO,Yes ,Auto Service Bay,No Car Wash,2241,20010
+3960,2,OPEN,Control Type 3,N,Gas Station,3,15,CT,4,4,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1255,15424
+3969,2,OPEN,Control Type 1,N,Gas Station,1,237,CT,3,4,1,4,TBD,NO,NO,NO,Auto Service Bay,No Car Wash,1910,31799
+3981,2,OPEN,Control Type 3,N,Gas Station,3,238,CT,45,4,1,6,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,943,23068
+3987,2,OPEN,Control Type 1,N,Gas Station,3,239,CT,45,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1350,21240
+4120,2,OPEN,Control Type 1,BR,Gas Station,1,18,CT,1,4,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,644,16117
+4140,2,CLOSED,Control Type 1,BR,Gas Station,1,26,CT,4,2,1,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,800,42122
+4160,3,OPEN,Control Type 3,BR,Gas Station,3,240,CT,3,3,1,5,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1947,37462
+4200,1,OPEN,Control Type 3,BR,Gas Station,1,241,CT,3,1,1,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+4401,2,OPEN,Control Type 3,S,Gas Station,1,242,MA,56,4,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1337,10743
+4402,2,OPEN,Control Type 1,S,Gas Station,6,243,MA,58,4,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+4407,2,OPEN,Control Type 3,S,Gas Station,3,244,MA,53,4,1,8,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,960,41474
+4411,2,OPEN,Control Type 3,S,Gas Station,3,245,MA,9,4,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,900,25412
+4413,2,OPEN,Control Type 1,S,Gas Station,1,246,MA,9,4,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+4415,2,OPEN,Control Type 3,S,Gas Station,3,247,MA,43,4,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,900,33957
+4418,2,OPEN,Control Type 3,S,Gas Station,3,248,MA,43,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2500,38473
+4424,2,OPEN,Control Type 3,S,Gas Station,3,249,MA,58,4,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,976,20647
+4428,2,OPEN,Control Type 3,S,Gas Station,3,250,MA,9,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1200,43517
+4429,2,OPEN,Control Type 3,S,Gas Station,1,251,NH,42,4,1,3,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1700,13930
+4434,2,OPEN,Control Type 1,S,Gas Station,3,252,MA,58,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,665,15682
+4435,2,OPEN,Control Type 3,S,Gas Station,1,253,MA,59,4,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1765,38291
+4437,2,OPEN,Control Type 3,S,Gas Station,1,127,NH,8,4,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,900,27478
+4438,2,OPEN,Control Type 3,S,Gas Station,3,250,MA,9,4,1,6,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,900,22257
+4441,2,OPEN,Control Type 1,B,Gas Station,6,254,MA,7,4,21,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2240,16552.8
+4442,2,OPEN,Control Type 1,G2,Gas Station,1,255,MA,48,4,1,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1650,TBD
+4443,2,OPEN,Control Type 1,G2,Gas Station,1,256,MA,48,4,19,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,840,TBD
+4444,2,OPEN,Control Type 1,G2,Gas Station,1,137,MA,55,4,1,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1728,TBD
+4445,2,OPEN,Control Type 1,G2,Gas Station,1,119,MA,48,4,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1188,TBD
+4446,2,OPEN,Control Type 3,S,Gas Station,3,257,MA,58,4,1,8,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,900,22575
+4447,2,OPEN,Control Type 3,S,Gas Station,1,258,MA,9,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1026,15246
+4448,2,OPEN,Control Type 3,S,Gas Station,3,259,MA,43,4,1,6,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1773,59590
+5040,2,OPEN,Control Type 3,WS,Gas Station,3,260,CT,1,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1818,98868
+5401,4,OPEN,Control Type 1,G3,Gas Station,1,261,NY,68,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1144,8099
+5402,2,OPEN,Control Type 1,G3,Gas Station,3,262,NY,68,2,1,3,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,1056,30000
+5403,15,OPEN,Control Type 1,G3,Gas Station,1,202,NY,69,18,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2800,29511
+5408,2,OPEN,Control Type 1,G3,Gas Station,3,204,NY,70,4,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,3950,10400
+5412,15,OPEN,Control Type 1,G3,Gas Station,1,202,NY,69,18,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1800,11622
+5413,4,OPEN,Control Type 1,G3,Gas Station,3,202,NY,69,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1100,13414
+5416,2,OPEN,Control Type 1,G3,Gas Station,3,263,NY,69,2,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1100,10675
+5418,4,CLOSED,Control Type 1,G3,Gas Station,1,202,NY,69,5,1,6,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5419,16,OPEN,Control Type 1,G3,Gas Station,1,263,NY,69,16,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1200,5857
+5420,1,OPEN,Control Type 1,G3,Gas Station,3,221,NY,68,1,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,260,9490
+5421,4,OPEN,Control Type 1,G3,Gas Station,3,202,NY,69,5,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1600,6903
+5422,4,OPEN,Control Type 1,G3,Gas Station,3,202,NY,69,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,800,8510
+5424,4,OPEN,Control Type 1,G3,Gas Station,3,204,NY,70,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1200,11993
+5425,12,OPEN,Control Type 1,G3,Gas Station,3,204,NY,70,8,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2200,7906
+5428,2,OPEN,Control Type 1,G3,Gas Station,3,264,NY,68,2,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1728,16224
+5430,4,OPEN,Control Type 1,G3,Gas Station,3,211,NY,68,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,3750,6500
+5432,4,OPEN,Control Type 1,G3,Gas Station,3,201,NY,68,5,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,5000,10000
+5434,1,OPEN,Control Type 1,G3,Gas Station,3,265,NY,68,1,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1300,9340
+5437,4,OPEN,Control Type 1,G3,Gas Station,1,202,NY,69,5,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1900,11214
+5444,4,OPEN,Control Type 1,G3,Gas Station,1,202,NY,69,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5447,12,OPEN,Control Type 1,G3,Gas Station,3,201,NY,68,8,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1943,9310
+5448,4,OPEN,Control Type 1,G3,Gas Station,6,202,NY,69,5,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1300,10931
+5602,3,OPEN,Control Type 1,G3,Gas Station,1,266,NY,76,3,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1800,10000
+5603,12,OPEN,Control Type 1,G3,Gas Station,3,267,NY,76,8,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3000,13200
+5604,2,OPEN,Control Type 1,G3,Gas Station,3,268,NY,76,4,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2280,27600
+5605,12,OPEN,Control Type 1,G3,Gas Station,3,269,NY,76,8,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5606,2,OPEN,Control Type 1,G3,Gas Station,3,270,NY,76,2,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1800,10800
+5607,15,OPEN,Control Type 1,G3,Gas Station,3,271,NY,76,18,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2500,19050
+5608,12,OPEN,Control Type 1,G3,Gas Station,1,272,NY,76,8,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,900,16500
+5609,15,OPEN,Control Type 1,G3,Gas Station,3,273,NY,76,18,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,2400,7500
+5611,3,OPEN,Control Type 1,G3,Gas Station,3,274,NY,76,3,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2700,8000
+5613,13,OPEN,Control Type 1,G3,Gas Station,1,275,NY,76,16,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2700,10000
+5615,15,OPEN,Control Type 1,G3,Gas Station,1,276,NY,76,18,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1750,6720
+5616,3,OPEN,Control Type 1,G3,Gas Station,3,189,NY,76,3,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2700,19000
+5620,12,OPEN,Control Type 1,G3,Gas Station,1,277,NY,76,8,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,3000,8000
+5624,2,OPEN,Control Type 1,G3,Gas Station,3,278,NY,76,2,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,396,7750
+5629,2,OPEN,Control Type 1,G3,Gas Station,3,279,NY,76,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5650,2,OPEN,Control Type 1,G3,Gas Station,3,271,NY,76,2,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2700,30000
+5651,1,OPEN,Control Type 1,G3,Gas Station,3,280,NY,76,1,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,4500,30600
+5720,1,OPEN,Control Type 1,G3,Gas Station,2,281,NJ,77,1,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5902,12,OPEN,Control Type 1,G3,Gas Station,2,282,NY,78,8,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,600,10000
+5906,4,OPEN,Control Type 1,G3,Gas Station,3,283,NY,78,5,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1100,10000
+5907,12,OPEN,Control Type 1,G3,Gas Station,1,202,NY,69,8,1,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1500,13616
+5909,16,OPEN,Control Type 1,G3,Gas Station,1,284,NY,78,19,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,3200,20400
+5915,12,OPEN,Control Type 1,G3,Gas Station,3,282,NY,78,8,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1500,15000
+5916,4,OPEN,Control Type 1,G3,Gas Station,1,282,NY,78,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1500,10000
+5921,4,OPEN,Control Type 1,G3,Gas Station,1,285,NY,78,5,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1400,12000
+5923,4,OPEN,Control Type 1,G3,Gas Station,1,282,NY,78,5,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1200,28890
+5927,4,OPEN,Control Type 1,G3,Gas Station,1,286,NY,78,5,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1100,14700
+5928,2,OPEN,Control Type 1,G3,Gas Station,3,287,NY,79,2,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5932,2,OPEN,Control Type 1,G3,Gas Station,3,288,NY,79,2,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1600,20000
+5935,2,OPEN,Control Type 1,G3,Gas Station,3,289,NY,78,2,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5936,2,OPEN,Control Type 1,G3,Gas Station,3,290,NY,78,4,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1900,15336
+5938,2,OPEN,Control Type 1,G3,Gas Station,3,291,NY,80,4,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1200,12984
+5940,15,OPEN,Control Type 1,G3,Gas Station,1,282,NY,78,18,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5960,13,OPEN,Control Type 1,G3,Gas Station,1,292,CT,4,16,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5961,2,OPEN,Control Type 1,G3,Gas Station,3,135,CT,4,4,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5962,2,OPEN,Control Type 1,G3,Gas Station,1,15,CT,4,4,1,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5963,2,OPEN,Control Type 1,G3,Gas Station,1,15,CT,4,2,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5964,13,OPEN,Control Type 1,G3,Gas Station,3,293,CT,4,16,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5965,2,OPEN,Control Type 1,G3,Gas Station,3,294,CT,4,2,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5966,2,OPEN,Control Type 1,G3,Gas Station,1,22,CT,4,2,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5967,4,OPEN,Control Type 1,G3,Gas Station,1,22,CT,4,5,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5968,12,OPEN,Control Type 1,G3,Gas Station,3,22,CT,4,8,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5971,2,OPEN,Control Type 1,G3,Gas Station,3,56,CT,1,4,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5972,1,OPEN,Control Type 1,G3,Gas Station,1,133,CT,1,1,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+5973,1,OPEN,Control Type 1,G3,Gas Station,1,3,CT,1,1,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5974,1,OPEN,Control Type 1,G3,Gas Station,3,146,CT,51,1,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+5976,1,OPEN,Control Type 1,G3,Gas Station,1,295,MA,55,1,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+6120,2,OPEN,Control Type 1,DE,Gas Station,1,296,ME,81,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1800,26572
+6170,2,OPEN,Control Type 1,DE,Gas Station,1,297,ME,81,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2800,24829
+6390,2,OPEN,Control Type 1,DE,Gas Station,3,251,NH,42,4,1,8,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+6601,12,OPEN,Control Type 1,G3,Gas Station,1,298,NY,82,8,1,3,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,2700,16000
+6603,15,OPEN,Control Type 1,G3,Gas Station,1,299,NY,82,18,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,2700,14300
+6606,2,OPEN,Control Type 1,G3,Gas Station,3,299,NY,82,2,1,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1800,23625
+6607,1,OPEN,Control Type 1,G3,Gas Station,3,300,NY,82,1,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1278,27074
+6609,3,OPEN,Control Type 1,G3,Gas Station,3,301,NY,82,3,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3000,11250
+6610,1,OPEN,Control Type 1,G3,Gas Station,1,302,NY,82,1,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2400,27650
+6612,1,OPEN,Control Type 1,G3,Gas Station,3,303,NY,82,1,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1800,30975
+6614,1,OPEN,Control Type 1,G3,Gas Station,3,302,NY,82,1,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1800,29684
+6615,15,OPEN,Control Type 1,G3,Gas Station,3,304,NY,82,18,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1800,22500
+6618,15,OPEN,Control Type 1,G3,Gas Station,1,305,NY,82,18,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,900,7500
+6619,1,OPEN,Control Type 1,G3,Gas Station,6,306,NY,82,1,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2139,70779
+6620,2,OPEN,Control Type 1,G3,Gas Station,3,307,NY,82,2,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1596,22750
+6623,3,OPEN,Control Type 1,G3,Gas Station,1,308,NY,82,3,1,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+6625,15,OPEN,Control Type 1,G3,Gas Station,1,309,NY,82,18,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+6631,2,OPEN,Control Type 1,G3,Gas Station,2,310,NY,82,2,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2755,56350
+6632,15,OPEN,Control Type 1,G3,Gas Station,1,311,NY,82,18,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1800,12350
+6633,3,OPEN,Control Type 1,G3,Gas Station,3,312,NY,82,3,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+6634,15,OPEN,Control Type 1,G3,Gas Station,3,313,NY,82,18,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+6636,1,OPEN,Control Type 1,G3,Gas Station,3,314,NY,82,1,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+6640,15,OPEN,Control Type 1,G3,Gas Station,1,315,NY,82,18,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+6704,2,OPEN,Control Type 1,G3,Gas Station,3,316,NY,80,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,400,13050
+6706,3,OPEN,Control Type 1,G3,Gas Station,3,317,NY,83,3,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,400,20038
+6707,3,OPEN,Control Type 1,G3,Gas Station,3,318,NY,80,3,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,5000,20000
+6713,2,OPEN,Control Type 1,G3,Gas Station,1,319,NY,79,2,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2000,44000
+6743,1,OPEN,Control Type 1,G3,Gas Station,3,320,NY,78,1,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1100,15000
+7020,2,OPEN,Control Type 1,E 2,Gas Station,3,13,CT,4,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1248,13625
+7040,12,OPEN,Control Type 3,E 2,Gas Station,2,15,CT,4,8,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1250,37331
+7103,1,OPEN,Control Type 1,G2,Gas Station,1,321,MA,48,1,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1056,TBD
+7104,1,OPEN,Control Type 1,G2,Gas Station,3,322,MA,55,1,19,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1482,TBD
+7105,1,OPEN,Control Type 1,G2,Gas Station,1,137,MA,55,1,19,3,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2025,TBD
+7106,12,OPEN,Control Type 3,BR2,Gas Station,4,155,MA,58,8,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+7107,1,OPEN,Control Type 1,G2,Gas Station,3,323,MA,55,1,19,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2652,TBD
+7109,1,OPEN,Control Type 1,G2,Gas Station,1,140,MA,48,1,19,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1148,TBD
+7110,1,OPEN,Control Type 2,E 2,Gas Station,3,324,CT,4,1,5,4,NO,NO,NO,No,No Auto Service Bay,Car Wash,1200,TBD
+7111,3,OPEN,Control Type 1,G2,Gas Station,1,119,MA,48,3,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1705,TBD
+7112,3,OPEN,Control Type 3,W,Gas Station,4,15,CT,4,3,3,N/A,NO,NO,NO,No,Auto Service Bay,No Car Wash,TBD,TBD
+7180,12,OPEN,Control Type 3,E 2,Gas Station,3,15,CT,4,8,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1792,22089
+7190,15,OPEN,Control Type 1,SP,Gas Station,1,325,NY,76,18,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+9010,2,OPEN,Control Type 4,N,Gas Station,3,324,CT,4,4,5,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1200,37934
+10004,1,OPEN,Control Type 2,D,Gas Station,3,326,CT,1,1,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1858,27440
+10006,1,OPEN,Control Type 2,D,Gas Station,3,10,CT,3,1,24,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3040,39639.6
+10007,1,OPEN,Control Type 2,D,Gas Station,2,327,CT,1,1,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2992,42688
+10009,2,OPEN,Control Type 2,D,Gas Station,3,328,CT,3,2,24,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3612,43995.6
+10010,2,OPEN,Control Type 2,D,Gas Station,1,175,RI,52,4,24,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1320,15300
+10012,2,OPEN,Control Type 2,D,Gas Station,2,329,CT,45,4,24,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3520,108900
+10013,1,OPEN,Control Type 2,D,Gas Station,1,176,RI,52,1,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,96,8712
+10015,2,OPEN,Control Type 2,D,Gas Station,2,147,NH,13,4,4,6,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,3710,102366
+10016,16,OPEN,Control Type 2,D,Gas Station,2,330,MA,7,19,24,8,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,5789,620730
+10017,2,OPEN,Control Type 2,D,Gas Station,3,331,MA,84,4,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1481,5824
+10020,3,OPEN,Control Type 2,D,Gas Station,3,259,MA,43,3,24,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2352,40510.8
+10021,1,OPEN,Control Type 2,D,Gas Station,2,179,MA,7,1,24,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3046,72745.2
+10022,1,OPEN,Control Type 2,D,Gas Station,2,332,MA,7,1,25,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3632,43560
+10023,3,OPEN,Control Type 2,D,Gas Station,3,172,NH,42,3,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2800,120225.6
+10024,2,OPEN,Control Type 2,D,Gas Station,2,114,MA,7,4,5,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1263,91476
+10025,2,OPEN,Control Type 2,D,Gas Station,3,321,MA,48,4,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2703,34897
+10026,2,OPEN,Control Type 2,D,Gas Station,3,333,NH,42,2,24,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3060,435600
+10027,2,OPEN,Control Type 2,D,Gas Station,2,334,MA,53,4,24,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3733,221720.4
+10033,2,OPEN,Control Type 2,D,Gas Station,1,335,NY,85,4,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1860,80150.4
+10040,3,OPEN,Control Type 2,D,Gas Station,3,336,NY,85,3,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1556,38332.8
+10042,3,OPEN,Control Type 2,D,Gas Station,1,337,NY,85,3,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2419,12196.8
+10045,3,OPEN,Control Type 2,D,Gas Station,3,338,NY,49,3,24,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,2726,27745
+10047,16,CONVERTED,Control Type 2,D,Gas Station,2,339,NY,85,19,8,6,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,1500,43560
+10048,3,OPEN,Control Type 2,D,Gas Station,3,121,NY,49,3,24,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1564,47916
+10051,2,OPEN,Control Type 2,D,Gas Station,3,340,NY,85,4,24,4,NO,NO,NO,No,No Auto Service Bay,Car Wash,3055,40946.4
+10053,4,OPEN,Control Type 4,D,Gas Station,1,341,NY,50,5,24,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+10055,2,OPEN,Control Type 4,D,Gas Station,3,342,CT,2,4,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1500,67953.6
+10056,1,OPEN,Control Type 4,D,Gas Station,3,343,CT,26,1,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2450,23958
+10057,2,OPEN,Control Type 2,D,Gas Station,2,344,CT,45,4,24,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3216,67082.4
+10059,2,OPEN,Control Type 4,D,Gas Station,3,345,RI,52,4,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1600,61419.6
+10060,3,OPEN,Control Type 4,D,Gas Station,3,239,CT,45,3,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1860,31798.8
+10062,1,OPEN,Control Type 4,D,Gas Station,3,346,CT,26,1,24,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2715,29185.2
+10064,2,OPEN,Control Type 4,D,Gas Station,3,347,CT,51,4,24,6,NO,NO,NO,No,No Auto Service Bay,Car Wash,3598,57063.6
+10065,3,OPEN,Control Type 4,D,Gas Station,3,133,CT,1,3,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2766,49658.4
+10066,2,OPEN,Control Type 4,D,Gas Station,3,348,CT,26,2,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3864,11325.6
+10068,16,OPEN,Control Type 4,D,Gas Station,1,349,CT,54,19,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1652,58806
+10070,2,OPEN,Control Type 4,D,Gas Station,3,251,RI,86,4,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1560,59677.2
+10071,1,OPEN,Control Type 4,D,Gas Station,3,10,CT,3,1,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1980,30150
+10076,1,OPEN,Control Type 4,D,Gas Station,3,350,CT,26,1,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1865,24829.2
+10077,2,OPEN,Control Type 4,D,Gas Station,3,351,RI,5,4,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1700,65340
+10078,2,OPEN,Control Type 4,D,Gas Station,3,352,CT,45,2,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2535,81892.8
+10079,2,OPEN,Control Type 4,D,Gas Station,3,353,CT,54,4,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,2500,43560
+10082,1,OPEN,Control Type 4,D,Gas Station,1,354,RI,5,1,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1232,24829.2
+10083,2,OPEN,Control Type 4,D,Gas Station,2,355,CT,54,4,24,6,NO,NO,NO,No,No Auto Service Bay,No Car Wash,4200,91911.6
+10086,16,OPEN,Control Type 4,D,Gas Station,2,162,MA,9,19,24,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1456,12969
+10087,16,OPEN,Control Type 4,D,Gas Station,2,179,MA,7,19,24,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3657,73180.8
+10089,2,OPEN,Control Type 4,D,Gas Station,2,142,MA,7,2,24,8,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,3860,50094
+10091,3,OPEN,Control Type 4,D,Gas Station,2,119,MA,48,3,24,6,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,2688,26571.6
+10093,16,OPEN,Control Type 4,D,Gas Station,2,356,MA,7,19,24,5,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,3784,78408
+10095,1,OPEN,Control Type 4,D,Gas Station,3,179,MA,7,1,24,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1500,38332.8
+10096,2,OPEN,Control Type 4,D,Gas Station,3,357,MA,7,4,5,4,Diesel,Separate Diesel Canopy,High Speed Diesel,No,No Auto Service Bay,No Car Wash,2784,50529.6
+10097,1,OPEN,Control Type 4,D,Gas Station,1,358,ME,12,1,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1856,14810.4
+10098,12,OPEN,Control Type 4,D,Gas Station,1,254,MA,7,8,24,2,Diesel,NO,High Speed Diesel,No,No Auto Service Bay,No Car Wash,210,61419.6
+10101,3,OPEN,Control Type 4,D,Gas Station,1,232,MA,7,3,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,504,7144
+10102,2,OPEN,Control Type 4,D,Gas Station,3,359,ME,12,4,24,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2480,36154.8
+10105,2,OPEN,Control Type 4,D,Gas Station,3,360,MA,7,4,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2379,41817.6
+10107,3,OPEN,Control Type 4,D,Gas Station,3,330,MA,7,3,24,4,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1535,43560
+10110,1,OPEN,Control Type 4,D,Gas Station,1,361,MA,7,1,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1467,16117.2
+10113,2,OPEN,Control Type 4,D,Gas Station,1,117,NY,87,4,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1960,91663
+10117,16,CLOSED,Control Type 4,D,Gas Station,3,362,NY,50,19,24,Unknown,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1682,52272
+10119,2,OPEN,Control Type 4,D,Gas Station,1,363,NY,83,4,24,3,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1596,16552.8
+10120,2,OPEN,Control Type 4,D,Gas Station,1,364,NY,50,4,24,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1998,28000
+10126,16,OPEN,Control Type 4,D,Gas Station,1,365,NY,80,19,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1305,20250
+10130,3,OPEN,Control Type 4,D,Gas Station,1,366,NY,88,3,24,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1980,348480
+10134,3,OPEN,Control Type 4,D,Gas Station,1,367,NY,88,3,24,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2379,25264.8
+10137,2,OPEN,Control Type 4,D,Gas Station,1,368,NY,50,4,24,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2800,87120
+10149,4,OPEN,Control Type 4,D,Gas Station,1,124,NY,50,5,24,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,1426,16988.4
+10153,4,OPEN,Control Type 4,D,Gas Station,1,369,NY,78,5,1,2,NO,NO,NO,No,No Auto Service Bay,No Car Wash,3145,17655
+11002,2,OPEN,Control Type 1,D,Gas Station,6,370,MA,9,4,1,3,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1344,13068
+11005,1,OPEN,Control Type 1,D,Gas Station,3,154,MA,56,1,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1180,18056
+11006,16,CLOSED,Control Type 1,D,Gas Station,3,371,MD,89,19,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1568,26249.3
+11008,16,OPEN,Control Type 1,D,Gas Station,3,372,MD,71,19,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1986,28000
+11009,2,OPEN,Control Type 1,D,Gas Station,3,373,MD,90,2,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2284,23200
+11010,2,OPEN,Control Type 1,D,Gas Station,3,374,MD,90,2,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1400,43560
+11011,16,OPEN,Control Type 1,D,Gas Station,2,375,MD,90,19,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2600,35600
+11012,4,OPEN,Control Type 1,D,Gas Station,3,376,MD,90,5,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2100,34170.5
+11023,4,OPEN,Control Type 3,D,Gas Station,3,208,MD,71,5,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,92,92000
+11024,4,OPEN,Control Type 3,D,Gas Station,1,207,MD,71,5,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,168,20639
+11025,2,OPEN,Control Type 3,D,Gas Station,1,377,MD,91,2,1,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,4743,43429
+11026,12,OPEN,Control Type 3,D,Gas Station,3,378,VA,92,8,1,8,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,580,21039.48
+11027,2,OPEN,Control Type 3,D,Gas Station,2,379,MD,71,2,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,240,86828
+11028,4,OPEN,Control Type 3,D,Gas Station,2,380,MD,93,5,1,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,2100,14461.92
+11029,4,OPEN,Control Type 3,D,Gas Station,3,217,MD,71,5,1,4,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,160,41037
+11030,2,OPEN,Control Type 3,D,Gas Station,2,381,VA,92,4,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1572,24923
+11031,16,OPEN,Control Type 3,D,Gas Station,2,382,MD,94,19,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2560,43560
+11032,16,OPEN,Control Type 3,D,Gas Station,3,383,MD,71,19,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2474,36712
+11033,2,OPEN,Control Type 3,D,Gas Station,2,72,MD,95,2,1,6,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3200,43995.6
+11034,16,OPEN,Control Type 3,D,Gas Station,3,384,MD,71,19,1,4,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,669,15783
+11035,4,OPEN,Control Type 3,D,Gas Station,3,381,VA,92,5,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,72,64575
+11036,4,OPEN,Control Type 3,D,Gas Station,3,206,MD,71,5,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2151,22619
+11038,3,OPEN,Control Type 3,D,Gas Station,6,127,NY,50,3,1,5,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,100,14374.8
+11040,4,OPEN,Control Type 1,D,Gas Station,6,385,MD,95,5,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1638,40000
+11043,4,OPEN,Control Type 3,D,Gas Station,1,386,MA,7,5,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1690,11761.2
+11046,3,OPEN,Control Type 3,D,Gas Station,1,387,CT,45,3,1,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1720,17859
+11047,2,OPEN,Control Type 3,D,Gas Station,3,334,CT,45,4,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2780,91476
+11048,4,OPEN,Control Type 1,D,Gas Station,6,388,CT,1,5,1,2,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,2542,36154.8
+11052,2,OPEN,Control Type 1,D,Gas Station,1,389,CT,1,2,1,5,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1650,180774
+11053,2,OPEN,Control Type 1,D,Gas Station,6,105,MA,7,4,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,355,40075.2
+11054,1,OPEN,Control Type 1,D,Gas Station,1,390,NY,96,1,1,5,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,800,12500
+11055,4,CLOSED,Control Type 1,D,Gas Station,1,391,CT,26,5,1,2,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,TBD,TBD
+11057,1,OPEN,Control Type 1,D,Gas Station,3,392,CT,45,1,1,6,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1321,56192.4
+11058,16,OPEN,Control Type 1,D,Gas Station,1,298,MD,71,19,1,4,Diesel,NO,NO,Yes ,No Auto Service Bay,No Car Wash,513,19205
+11504,12,OPEN,Control Type 1,D,Gas Station,3,320,NY,78,8,1,3,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1500,18000
+11505,4,OPEN,Control Type 1,W2,Gas Station,3,201,NY,68,5,1,6,Diesel,NO,NO,No,No Auto Service Bay,Car Wash,3640,22000
+11506,4,OPEN,Control Type 1,W2,Gas Station,1,393,NY,97,5,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,800,5330
+11509,15,OPEN,Control Type 1,W2,Gas Station,1,394,NY,76,18,1,2,TBD,NO,NO,No,No Auto Service Bay,No Car Wash,1260,7830
+11510,1,OPEN,Control Type 3,D,Gas Station,1,226,CT,1,1,1,3,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,1688,88426.8
+11511,2,OPEN,Control Type 3,D,Gas Station,2,395,NY,78,4,1,5,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,3560,106286.4
+11513,16,OPEN,Control Type 3,W2,Gas Station,3,396,NY,78,19,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1432,7930
+15116,1,OPEN,Control Type 1,A,Gas Station,4,397,NY,98,1,1,TBD,TBD,NO,NO,No,Auto Service Bay,No Car Wash,TBD,TBD
+15179,2,OPEN,Control Type 3,D,Gas Station,1,398,CT,26,4,1,2,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,1363,23522.4
+15184,2,OPEN,Control Type 3,S,Gas Station,1,399,MA,9,4,1,4,TBD,NO,NO,Yes ,No Auto Service Bay,No Car Wash,2248,20188
+15185,2,OPEN,Control Type 3,M,Gas Station,1,400,RI,5,4,8,4,Diesel,NO,NO,No,No Auto Service Bay,No Car Wash,TBD,TBD
+880800,2,Open,Control Type 2,A2,Gas Station,1,401,TX,99,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880801,2,Open,Control Type 2,A2,Gas Station,1,401,TX,99,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880802,2,Open,Control Type 2,A2,Gas Station,1,402,TX,99,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880803,2,Open,Control Type 2,A2,Gas Station,3,402,TX,99,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880804,2,Open,Control Type 2,A2,Gas Station,2,402,TX,99,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880805,2,Open,Control Type 2,A2,Gas Station,2,402,TX,99,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880806,2,Open,Control Type 2,A2,Gas Station,3,402,TX,99,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880807,2,Open,Control Type 2,A2,Gas Station,3,402,TX,99,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880808,2,Open,Control Type 2,A2,Gas Station,6,403,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880809,2,Open,Control Type 4,A2,Gas Station,1,404,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880810,2,Open,Control Type 2,A2,Gas Station,1,404,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880811,2,Open,Control Type 2,A2,Gas Station,2,405,TX,100,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880812,2,Open,Control Type 2,A2,Gas Station,2,404,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880813,2,Open,Control Type 2,A2,Gas Station,3,404,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880814,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880815,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,21,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880816,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880817,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880818,2,Open,Control Type 2,A2,Gas Station,3,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880819,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880820,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880821,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,21,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880822,2,Open,Control Type 2,A2,Gas Station,3,407,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880823,2,Open,Control Type 2,A2,Gas Station,3,406,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880824,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880825,2,Open,Control Type 2,A2,Gas Station,3,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880826,2,Open,Control Type 2,A2,Gas Station,3,406,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880827,2,Open,Control Type 2,A2,Gas Station,3,408,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880828,2,Open,Control Type 4,A2,Gas Station,1,408,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880829,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880830,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880831,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880832,2,Open,Control Type 2,A2,Gas Station,6,409,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880833,2,Open,Control Type 2,A2,Gas Station,2,409,TX,100,2,21,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880834,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880835,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880836,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880837,2,Open,Control Type 2,A2,Gas Station,3,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880838,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880839,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880840,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880841,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880842,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880843,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880844,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880845,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880846,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880847,2,Open,Control Type 2,A2,Gas Station,3,410,TX,101,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880848,2,Open,Control Type 2,A2,Gas Station,3,411,TX,101,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880849,2,Open,Control Type 2,A2,Gas Station,3,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880850,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880851,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880852,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,No,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880853,2,Open,Control Type 2,A2,Gas Station,1,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880854,2,Open,Control Type 2,A2,Gas Station,1,412,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880855,2,Open,Control Type 2,A2,Gas Station,1,413,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880856,2,Open,Control Type 2,A2,Gas Station,1,413,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880857,2,Open,Control Type 2,A2,Gas Station,6,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880858,2,Open,Control Type 2,A2,Gas Station,3,414,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880859,2,Open,Control Type 2,A2,Gas Station,1,415,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,No,#REF!,
+880860,2,Open,Control Type 2,A2,Gas Station,1,415,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880861,2,Open,Control Type 2,A2,Gas Station,6,415,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880862,2,Open,Control Type 2,A2,Gas Station,6,415,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
+880864,2,Open,Control Type 2,A2,Gas Station,2,406,TX,100,2,26,,Yes,No,No,NO,No Auto Service Bay,Yes,#REF!,
