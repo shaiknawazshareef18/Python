@@ -5,7 +5,9 @@ from side of poojitha
 4.future prediction
 
 What I(Nawaz) have done in the project
+
 Fuel Data Analysis & Prediction Using XGBoost
+
 This project explores a dataset related to fuel consumption and performs data cleaning, visualization, feature engineering, and machine learning using the XGBoost algorithm.
 
 Project Overview
